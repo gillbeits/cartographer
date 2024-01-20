@@ -13,8 +13,8 @@
         "phpunit/phpunit": "^9.5"
     },
     "require": {
-        "php": ">=7.3",
-        "league/flysystem": "^3.0",
+        "php": "^7.4",
+        "league/flysystem": "^2.5",
         "ext-dom": "*"
     },
     "autoload": {
