@@ -14,7 +14,7 @@
         "phpunit/phpunit": "4.0.*"
     },
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4 || ^8.0 || ^8.1 || ^8.2 || ^8.3",
         "league/flysystem": "1.0.*"
     },
     "autoload": {
